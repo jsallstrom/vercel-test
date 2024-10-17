@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to Johans <br />SvelteKit app (tm)
 	</h1>
 
 	<h2>
